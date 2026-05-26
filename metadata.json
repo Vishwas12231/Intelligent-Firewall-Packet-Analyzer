@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Firewall & Packet Analyzer",
+  "description": "A full-stack, modular network monitoring, packet analysis, and intelligent threat-scoring simulation dashboard featuring custom firewall control rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
